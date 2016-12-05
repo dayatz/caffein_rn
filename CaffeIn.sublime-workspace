@@ -1,0 +1,1746 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"HttpRe",
+				"HttpResponse	class"
+			],
+			[
+				"intial",
+				"initializer_excel	function"
+			],
+			[
+				"kel",
+				"keluarga	statement"
+			],
+			[
+				"keluar",
+				"keluarga"
+			],
+			[
+				"dja",
+				"django	module"
+			],
+			[
+				"desa",
+				"desa_id_for_keluarga	function"
+			],
+			[
+				"m",
+				"method	Attr"
+			],
+			[
+				"fil",
+				"file_name	param"
+			],
+			[
+				"djan",
+				"django_excel	module"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"Djan",
+				"django_excel	module"
+			],
+			[
+				"vie",
+				"views2	module"
+			],
+			[
+				"Kelua",
+				"Keluarga	class"
+			],
+			[
+				"Keluar",
+				"KeluargaPDFView	class"
+			],
+			[
+				"eas",
+				"easy_pdf	module"
+			],
+			[
+				"anggo",
+				"anggota__keluarga__desa"
+			],
+			[
+				"angg",
+				"anggota__keluarga__desa"
+			],
+			[
+				"is",
+				"is_staff_desa	function"
+			],
+			[
+				"is_",
+				"is_user_viewer	function"
+			],
+			[
+				"kelua",
+				"keluargas	statement"
+			],
+			[
+				"keluargs",
+				"keluargas"
+			],
+			[
+				"is_s",
+				"is_staff_desa	function"
+			],
+			[
+				"login_",
+				"login_url	param"
+			],
+			[
+				"Superr",
+				"SuperuserOrStaffMixin	class"
+			],
+			[
+				"dh",
+				"dashboard	module"
+			],
+			[
+				"is_S",
+				"is_staff_desa	function"
+			],
+			[
+				"isSta",
+				"isStaffDesa	function"
+			],
+			[
+				"aut",
+				"authcheck	module"
+			],
+			[
+				"ge",
+				"get_object_or_404	function"
+			],
+			[
+				"get",
+				"get_object"
+			],
+			[
+				"UserV",
+				"UserViewerFormMixin	class"
+			],
+			[
+				"User",
+				"UserAdminModelForm	class"
+			],
+			[
+				"userad",
+				"useradmin	module"
+			],
+			[
+				"UsreV",
+				"UserViewerDeleteView	class"
+			],
+			[
+				"Staff",
+				"StaffDesa	class"
+			],
+			[
+				"Staf",
+				"StaffDesa	class"
+			],
+			[
+				"log",
+				"log	console"
+			],
+			[
+				"rever",
+				"reverse_lazy	function"
+			],
+			[
+				"au",
+				"auth	module"
+			],
+			[
+				"create",
+				"created"
+			],
+			[
+				"photo",
+				"photos"
+			],
+			[
+				"creat",
+				"create"
+			],
+			[
+				"prv",
+				"photo-preview"
+			],
+			[
+				"he",
+				"help_text"
+			],
+			[
+				"DesForm",
+				"DesaFormMixin	class"
+			],
+			[
+				"Desaf",
+				"DesaFormMixin	class"
+			],
+			[
+				"rev",
+				"reverse_lazy	function"
+			],
+			[
+				"Desa",
+				"DesaListView	class"
+			],
+			[
+				"auto",
+				"auto_now	param"
+			],
+			[
+				"Resturant",
+				"RestaurantTabInfo"
+			],
+			[
+				"Restau",
+				"RestaurantTabMap"
+			],
+			[
+				"Restara",
+				"RestaurantTabGallery"
+			],
+			[
+				"Resta",
+				"RestaurantTabMenu"
+			],
+			[
+				"Map",
+				"RestaurantTabMap"
+			],
+			[
+				"Info",
+				"RestaurantTabInfo"
+			],
+			[
+				"styl",
+				"style"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"menu",
+				"menuItem"
+			],
+			[
+				"Styl",
+				"styles"
+			],
+			[
+				"Dr",
+				"DrawerLayoutAndroid"
+			],
+			[
+				"Prod",
+				"ProductUnit	class"
+			],
+			[
+				"produc_",
+				"product_created_firsttime	function"
+			],
+			[
+				"q",
+				"qty"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"widt",
+				"width	Attr"
+			],
+			[
+				"Base",
+				"BASE_DIR	statement"
+			],
+			[
+				"STATIC",
+				"STATIC_ROOT"
+			],
+			[
+				"Upda",
+				"UpdateView	class"
+			],
+			[
+				"tempalte",
+				"template_name"
+			],
+			[
+				"Produc",
+				"Product	class"
+			],
+			[
+				"produc",
+				"product_category	statement"
+			],
+			[
+				"prodc",
+				"product_type"
+			],
+			[
+				"product",
+				"product_type"
+			],
+			[
+				"selec",
+				"selected"
+			],
+			[
+				"form",
+				"forms	module"
+			],
+			[
+				"OutletType",
+				"OutletTypeView	class"
+			],
+			[
+				"OutlTy",
+				"OutletType	class"
+			],
+			[
+				"OutlType",
+				"OutletTypeView	class"
+			],
+			[
+				"OutletF",
+				"OutletTypeForm	class"
+			],
+			[
+				"Out",
+				"OutletTypeForm	class"
+			],
+			[
+				"new",
+				"new_outlet"
+			],
+			[
+				"Mode",
+				"Model	Model"
+			],
+			[
+				"Outl",
+				"OutletForm	class"
+			],
+			[
+				"stati",
+				"static	static"
+			],
+			[
+				"OutType",
+				"OutletTypesMixin	class"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"template",
+				"template_name"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"longi",
+				"longitude"
+			],
+			[
+				"longit",
+				"longitudeVal"
+			],
+			[
+				"latlng",
+				"latlng"
+			],
+			[
+				"lat",
+				"latlng"
+			],
+			[
+				"Mod",
+				"Model	Model"
+			],
+			[
+				"autoN",
+				"auto_now"
+			],
+			[
+				"CASEC",
+				"CASCADE	function"
+			],
+			[
+				"wid",
+				"width	Attr"
+			],
+			[
+				"Ven",
+				"Vendor	class"
+			],
+			[
+				"VEnd",
+				"VendorForm	class"
+			],
+			[
+				"for",
+				"forms	module"
+			],
+			[
+				"VEndo",
+				"VendorCreateView"
+			],
+			[
+				"Model",
+				"ModelForm	ModelForm"
+			],
+			[
+				"prod",
+				"product_urls	module"
+			],
+			[
+				"name",
+				"namespace	param"
+			],
+			[
+				"url",
+				"urls	module"
+			],
+			[
+				"con",
+				"conf	module"
+			],
+			[
+				"cont",
+				"contrib	module"
+			],
+			[
+				"as",
+				"as_view	function"
+			],
+			[
+				"VEn",
+				"VendorListView	class"
+			],
+			[
+				"produ",
+				"product_views	module"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"outlet",
+				"outlet_views	module"
+			],
+			[
+				"Ot",
+				"Outlet	class"
+			],
+			[
+				"view",
+				"views	module"
+			],
+			[
+				"LOGIN",
+				"LOGIN_REDIRECT_URL"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"contex",
+				"context	statement"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"render",
+				"renderHelp"
+			],
+			[
+				"answer",
+				"answerNow"
+			],
+			[
+				"componentWill",
+				"componentWillUnmount	Life Cycle Method"
+			],
+			[
+				"exam",
+				"exam"
+			],
+			[
+				"val",
+				"val"
+			],
+			[
+				"rAI",
+				"RadioButtonGroup"
+			],
+			[
+				"compoen",
+				"componentDidMount	Life Cycle Method"
+			],
+			[
+				"answe",
+				"answer_b"
+			],
+			[
+				"answ",
+				"answer_key"
+			],
+			[
+				"Raid",
+				"RadioButtonGroup"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 216.0,
+		"last_filter": "jsx",
+		"selected_items":
+		[
+			[
+				"jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"dja",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"djang",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"pep8",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"django",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"pep",
+				"Project: Edit Project"
+			],
+			[
+				"dj",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"djan",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"p",
+				"Package Control: Remove Channel"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"jinj",
+				"Set Syntax: HTML (Jinja2)"
+			],
+			[
+				"python",
+				"Set Syntax: Python (Django)"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"emme",
+				"Set Syntax: Emmet"
+			],
+			[
+				"emem",
+				"Set Syntax: Emmet"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python (Django)"
+			],
+			[
+				"todo",
+				"Set Syntax: ToDone"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack remv",
+				"Package Control: Remove Channel"
+			],
+			[
+				"js",
+				"Set Syntax: JSX"
+			],
+			[
+				"jex",
+				"Snippet: jQuery.parseXML"
+			],
+			[
+				"gitignore",
+				"Git: Update Project Ignored Files"
+			],
+			[
+				"pomodoro",
+				"pomodoro"
+			],
+			[
+				"setjsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"set jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"set synt jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"set syntax jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"setsyntaxbabel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"todorev",
+				"TodoReview: Open Files"
+			],
+			[
+				"syntax: todo",
+				"Set Syntax: ToDone"
+			],
+			[
+				"isort",
+				"ImportSort: Sort imports"
+			],
+			[
+				"activ",
+				"Virtualenv: Activate"
+			],
+			[
+				"ionlist",
+				"Snippet: ionic-list"
+			],
+			[
+				"ionlis",
+				"Snippet: ionic-list"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"aut",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"vir",
+				"Virtualenv: Activate"
+			],
+			[
+				"activa",
+				"Virtualenv: Activate"
+			],
+			[
+				"virtual",
+				"Virtualenv: Activate"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"nstal",
+				"Package Control: Install Package"
+			],
+			[
+				"hg st",
+				"Hg: Status"
+			],
+			[
+				"active",
+				"Virtualenv: Activate"
+			],
+			[
+				"hgrc",
+				"Hg: Open local hgrc"
+			],
+			[
+				"hg push",
+				"Hg: Push"
+			],
+			[
+				"hgst",
+				"Hg: Status"
+			],
+			[
+				"ignore",
+				"Hg: Open local hgignore"
+			],
+			[
+				"hg igno",
+				"Hg: Open user hgignore"
+			],
+			[
+				"hg ig",
+				"Hg: Open user hgignore"
+			],
+			[
+				"hg ",
+				"Hg: Status"
+			],
+			[
+				"hg pus",
+				"Hg: Push"
+			],
+			[
+				"hg com",
+				"Hg: Quick Commit"
+			],
+			[
+				"hg add",
+				"Hg: Choose File To Add"
+			],
+			[
+				"hg rem",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"hg revert",
+				"Hg: Choose File To Revert"
+			],
+			[
+				"hg sta",
+				"Hg: Status"
+			],
+			[
+				"hg for",
+				"Hg: Choose File To Remove"
+			],
+			[
+				"hg statu",
+				"Hg: Status"
+			],
+			[
+				"hg remo",
+				"Hg: Choose File To Remove"
+			],
+			[
+				"hg",
+				"Hg: Status"
+			],
+			[
+				"acti",
+				"Virtualenv: Activate"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"acvi",
+				"Virtualenv: Activate"
+			],
+			[
+				"virtua",
+				"Virtualenv: Activate"
+			]
+		],
+		"width": 584.0
+	},
+	"console":
+	{
+		"height": 293.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/media/d/dev/labs/react-native/CaffeIn/app/components/RestaurantTabGallery.js",
+		"/media/d/dev/labs/react-native/CaffeIn/app/api/foods.js",
+		"/media/d/dev/labs/react-native/CaffeIn/app/templates/Home.js",
+		"/media/d/dev/labs/react-native/CaffeIn/app/components/RestaurantItem.js",
+		"/media/d/dev/labs/react-native/CaffeIn/app/api/index.js",
+		"/media/d/dev/labs/react-native/CaffeIn/app/images/index.js",
+		"/media/d/dev/labs/react-native/CaffeIn/app/config/customThemes.js",
+		"/media/d/dev/projects/ihmdev/web/keluarga/templates/anggota/index.jinja",
+		"/media/d/dev/projects/ihmdev/web/keluarga/templates/keluarga/view.jinja",
+		"/media/d/dev/projects/ihmdev/web/keluarga/templates/anggota/list_pdf.html",
+		"/media/d/dev/projects/ihmdev/web/orm/keluarga.py",
+		"/media/d/dev/projects/ihmdev/web/keluarga/forms.py",
+		"/home/e/.virtualenvs/ihmdev/lib/python2.7/site-packages/pyexcel/core.py",
+		"/home/e/.virtualenvs/ihmdev/lib/python2.7/site-packages/pyexcel_webio/__init__.py",
+		"/media/d/dev/projects/ihmdev/web/app/settings/base.py",
+		"/media/d/dev/projects/ihmdev/web/ihmdev.sublime-project",
+		"/media/d/dev/projects/ihmdev/web/keluarga/views2.py",
+		"/media/d/dev/projects/ihmdev/web/keluarga/templates/anggota/view.jinja",
+		"/media/d/dev/projects/ihmdev/web/desa/templates/desa/detail.jinja",
+		"/media/d/dev/projects/ihmdev/web/keluarga/templates/anggota/form.jinja",
+		"/media/d/dev/projects/ihmdev/web/keluarga/views.py",
+		"/media/d/dev/projects/ihmdev/web/keluarga/urls.py",
+		"/media/d/dev/projects/ihmdev/web/app/urls.py",
+		"/media/d/dev/projects/ihmdev/web/keluarga/templates/keluarga/pdf.html",
+		"/media/d/dev/projects/ihmdev/web/templates/layout/management/css.jinja",
+		"/home/e/.virtualenvs/ihmdev/lib/python2.7/site-packages/easy_pdf/templates/easy_pdf/base.html",
+		"/media/d/dev/projects/ihmdev/web/keluarga/templates/anggota/view/table.jinja",
+		"/media/d/dev/projects/ihmdev/web/dashboard/views.py",
+		"/media/d/dev/projects/ihmdev/web/keluarga/templates/keluarga/list_keluarga.jinja",
+		"/media/d/dev/projects/ihmdev/web/keluarga/templates/keluarga/list_anggota.jinja",
+		"/media/d/dev/projects/ihmdev/web/keluarga/templates/anggota/view/detail_modal.jinja",
+		"/media/d/dev/projects/ihmdev/web/library/views.py",
+		"/media/d/dev/projects/ihmdev/web/dashboard/permissions.py",
+		"/media/d/dev/projects/ihmdev/web/keluarga/templates/keluarga/form_update.jinja",
+		"/media/d/dev/projects/ihmdev/web/desa/templates/desa/list.jinja",
+		"/media/d/dev/projects/ihmdev/web/keluarga/templates/keluarga/index.jinja",
+		"/media/d/dev/projects/ihmdev/web/keluarga/templates/keluarga/view/table.jinja",
+		"/media/d/dev/projects/ihmdev/web/desa/views.py",
+		"/media/d/dev/projects/ihmdev/web/staffdesa/views.py",
+		"/media/d/dev/projects/ihmdev/web/orm/kelahiran.py",
+		"/media/d/dev/projects/ihmdev/web/staffdesa/templates/staffdesa/form.jinja",
+		"/media/d/dev/projects/ihmdev/web/templates/layout/management/aside.jinja",
+		"/media/d/dev/projects/ihmdev/web/staffdesa/urls.py",
+		"/media/d/dev/projects/ihmdev/web/staffdesa/templates/staffdesa/index.jinja",
+		"/media/d/dev/projects/ihmdev/web/keluarga/templates/keluarga/form.jinja",
+		"/media/d/dev/projects/ihmdev/web/desa/models.py",
+		"/media/d/dev/projects/ihmdev/web/login/views.py",
+		"/home/e/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/media/d/dev/projects/ihmdev/web/library/authcheck.py",
+		"/media/d/dev/projects/ihmdev/web/userviewer/templates/userviewer/list.jinja",
+		"/media/d/dev/projects/ihmdev/web/userviewer/urls.py",
+		"/media/d/dev/projects/ihmdev/web/userviewer/templates/userviewer/_delete_modal.jinja",
+		"/media/d/dev/projects/ihmdev/web/userviewer/views.py",
+		"/media/d/dev/projects/ihmdev/web/orm/models.py",
+		"/media/d/dev/projects/ihmdev/web/orm/staff.py",
+		"/media/d/dev/projects/ihmdev/web/orm/queue.py",
+		"/media/d/dev/projects/ihmdev/web/orm/patient.py",
+		"/media/d/dev/projects/ihmdev/web/userviewer/models.py",
+		"/media/d/dev/projects/ihmdev/web/staffdesa/templates/staffdesa/view/detail_modal.jinja",
+		"/media/d/dev/projects/ihmdev/web/staffdesa/templates/staffdesa/view/delete_modal.jinja",
+		"/media/d/dev/projects/ihmdev/web/dashboard/templates/dashboard/index.jinja",
+		"/media/d/dev/projects/ihmdev/web/useradmin/templates/useradmin/index.jinja",
+		"/media/d/dev/projects/ihmdev/web/useradmin/urls.py",
+		"/media/d/dev/projects/ihmdev/web/staffdesa/templates/staffdesa/view/table.jinja",
+		"/media/d/dev/projects/ihmdev/web/desa/urls.py",
+		"/media/d/dev/projects/ihmdev/web/userviewer/forms.py",
+		"/media/d/dev/projects/ihmdev/web/userviewer/templates/userviewer/add.jinja",
+		"/media/d/dev/projects/ihmdev/web/staffdesa/forms.py",
+		"/media/d/dev/projects/ihmdev/web/useradmin/views.py",
+		"/media/d/dev/projects/ihmdev/web/staffdesa/templates/staffdesa/view.jinja",
+		"/home/e/.virtualenvs/ihmdev/lib/python2.7/site-packages/braces/views/_access.py",
+		"/home/e/.virtualenvs/ihmdev/lib/python2.7/site-packages/braces/views/__init__.py",
+		"/home/e/.virtualenvs/ihmdev/lib/python2.7/site-packages/django/contrib/auth/__init__.py",
+		"/media/d/dev/projects/ihmdev/web/login/urls.py",
+		"/media/d/dev/projects/ihmdev/web/desa/forms.py",
+		"/media/d/dev/projects/ihmdev/web/templates/layout/login/head.jinja",
+		"/media/d/dev/projects/ihmdev/web/templates/layout/staff/head.jinja",
+		"/media/d/dev/projects/ihmdev/web/desa/templates/desa/desa_list.html",
+		"/media/d/dev/projects/ihmdev/web/orm/desa.py",
+		"/media/d/dev/labs/react-native/CaffeIn/node_modules/native-base/Components/Widgets/Container.js",
+		"/media/d/dev/labs/react-native/CaffeIn/app/components/RestaurantTabMap.js",
+		"/media/d/dev/labs/react-native/CaffeIn/app/components/RestaurantTabInfo.js",
+		"/media/d/dev/labs/react-native/CaffeIn/app/components/RestaurantTabMenu.js",
+		"/media/d/dev/labs/react-native/CaffeIn/app/components/RestaurantTabs.js",
+		"/media/d/dev/labs/react-native/CaffeIn/app/components/NavigationDrawer.js",
+		"/media/d/dev/labs/react-native/CaffeIn/app/index.js",
+		"/media/d/dev/labs/react-native/CaffeIn/node_modules/native-base/Components/vendor/react-native-scrollable-tab-view/index.js",
+		"/media/d/dev/labs/react-native/CaffeIn/node_modules/native-base/Components/Widgets/Header.js",
+		"/media/d/dev/labs/react-native/CaffeIn/app/templates/RestaurantDetail.js",
+		"/media/d/dev/labs/react-native/CaffeIn/app/templates/home.js",
+		"/media/d/dev/labs/react-native/CaffeIn/app/templates/login.js",
+		"/media/d/dev/projects/sfa_project/sfa_web/templates/product/_add_stock_modal.html",
+		"/media/d/dev/projects/sfa_project/sfa_web/templates/product/_add_new_stock_modal.html",
+		"/media/d/dev/projects/sfa_project/sfa_web/config/urls.py",
+		"/media/d/dev/projects/sfa_project/sfa_web/apps/core/views.py",
+		"/media/d/dev/projects/sfa_project/sfa_web/templates/base.html",
+		"/media/d/dev/projects/sfa_project/sfa_web/templates/product/_layout.html",
+		"/media/d/dev/projects/sfa_project/sfa_web/config/settings/base.py",
+		"/media/d/dev/projects/sfa_project/sfa_web/apps/outlet/urls.py",
+		"/media/d/dev/projects/sfa_project/sfa_web/apps/outlet/views.py",
+		"/media/d/dev/projects/sfa_project/sfa_web/apps/product/views.py",
+		"/media/d/dev/projects/sfa_project/sfa_web/apps/product/urls.py",
+		"/media/d/dev/projects/sfa_project/sfa_web/templates/outlet/_layout.html",
+		"/media/d/dev/projects/sfa_project/sfa_web/templates/product/detail.html",
+		"/media/d/dev/projects/sfa_project/sfa_web/templates/outlet/list.html",
+		"/media/d/dev/projects/sfa_project/sfa_web/static/js/outlet.js",
+		"/media/d/dev/projects/sfa_project/sfa_web/templates/product/list.html",
+		"/media/d/dev/projects/sfa_project/sfa_web/templates/product/add.html",
+		"/media/d/dev/projects/sfa_project/sfa_web/templates/outlet/detail.html",
+		"/media/d/dev/projects/sfa_project/sfa_web/apps/product/models.py",
+		"/media/d/dev/projects/sfa_project/sfa_web/templates/outlet/add.html",
+		"/media/d/dev/projects/sfa_project/sfa_web/corporate/tests.py",
+		"/media/d/dev/projects/sfa_project/sfa_web/corporate/migrations/0001_initial.py",
+		"/media/d/dev/projects/sfa_project/sfa_web/static/js/outlet-add.js",
+		"/media/d/dev/projects/sfa_project/sfa_web/corporate/models.py",
+		"/home/e/.virtualenvs/sfa/lib/python3.5/site-packages/vanilla/model_views.py",
+		"/media/d/dev/projects/sfa_project/sfa_web/apps/outlet/forms.py",
+		"/media/d/dev/projects/sfa_project/sfa_web/apps/outlet/models.py",
+		"/media/d/dev/projects/sfa_project/sfa_web/templates/login.html",
+		"/media/d/dev/projects/sfa_project/sfa_web/corporate/auth_backend.py",
+		"/home/e/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/media/d/dev/projects/sfa_project/sfa_web/corporate/views.py",
+		"/media/d/dev/projects/sfa_project/sfa_web/apps/core/models.py",
+		"/media/d/dev/projects/sfa_project/sfa_web/config/settings/apps.py",
+		"/home/e/.config/sublime-text-3/Packages/User/Python Django.sublime-settings",
+		"/media/d/dev/projects/sfa_project/sfa_web/config/settings/local.py",
+		"/media/d/dev/projects/sfa_project/sfa_web/templates/outlet/product_price.html",
+		"/home/e/.virtualenvs/sfa/lib/python3.5/site-packages/django/contrib/auth/models.py"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"/media/d/dev/labs/react-native/CaffeIn/app",
+			"",
+			"/media/d/dev/projects/sfa_project/sfa_web",
+			"",
+			"/media/d/dev/projects/skripsi/pelin_web/src/",
+			"/media/d/dev/projects/skripsi/pelin_web/src/components",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"title:",
+			"Content",
+			"photo:",
+			"View",
+			"data",
+			"api/",
+			"data",
+			"address:",
+			"data",
+			"style={{flex:1}} />",
+			"<Restaurant",
+			"/>",
+			"Wanita",
+			"Pria",
+			"$('#keluarga-side>a').click(funtion() {",
+			"Desa",
+			"desa",
+			"print",
+			"upload-excel-modal",
+			"keluarga",
+			"keluarga:",
+			"models=[",
+			"'",
+			"self.request",
+			"request",
+			"bs-example-modal-sm",
+			"modal",
+			"kel",
+			"if is_staff_desa(self.request.user):",
+			"keluargapdf",
+			"2",
+			"important",
+			"loop.index",
+			"<th>nik",
+			".user",
+			"sebab",
+			"migrasi",
+			"max_length=100",
+			"migrais",
+			"Anggota.objects.",
+			"request.user.staf",
+			"counter",
+			"for.",
+			"desa",
+			"Desa",
+			"user",
+			".user",
+			"viewer",
+			"5px",
+			"<li",
+			"kwargs.",
+			"doLogin",
+			"user_passes_test",
+			"form.save",
+			"= form.save()",
+			"form.save()",
+			"from .desa import Desa",
+			"registrant",
+			"viewer",
+			"a",
+			"reverse_lazy",
+			"staffdesa",
+			"User Admin",
+			"adminuser",
+			"Staff Desa",
+			".html",
+			"staffdesa",
+			"4",
+			"3",
+			"desa/",
+			"request.user",
+			"staffdesa",
+			"StaffDesa",
+			"staffdesa",
+			"StaffDesa",
+			"loop.",
+			"v.",
+			"SuperuserRequiredMixin",
+			"superuser",
+			"dash",
+			"r",
+			"doLogin",
+			"dropzone",
+			"h4",
+			"\">",
+			"name",
+			"v.",
+			"v",
+			"v.",
+			"desa",
+			"Desa",
+			"desa",
+			"Keluarga",
+			"keluarga",
+			"Keluarga",
+			"Data Keluarga",
+			"ManagementView",
+			"Management",
+			"INSTALLED_",
+			"INSTALLED",
+			"sfa",
+			"key=",
+			"<Text>",
+			"Text",
+			"<Text>",
+			"Restaurant",
+			"<Text>",
+			"View style={{flex:1}}",
+			"Tab",
+			"/>",
+			"Gallery",
+			"Menu",
+			"RestaurantTabMenu",
+			"Menu",
+			"View",
+			";",
+			"Content",
+			"customTheme",
+			"tabLabel",
+			"<Text>",
+			"<View style={{flex:1, backgroundColor: '#673ab7', justifyContent: 'center', alignItems: 'center'}}>",
+			"<View style={{flex:1, backgroundColor: '#ff4081', justifyContent: 'center', alignItems: 'center'}}>",
+			"justifyContent: 'center', alignItems: 'center'}}",
+			"backgroundColor",
+			";",
+			"16",
+			"50",
+			"Drawer"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"document.getElementById('lng').value =",
+			"document.getElementById('lat').value =",
+			"document.getElementById('lat').value",
+			"BaseLoginView",
+			";",
+			";\\n",
+			"",
+			"'",
+			"reciever",
+			"sender",
+			"p",
+			"u",
+			"'admin",
+			"src=\"{% static "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 65.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.anaconda_documentation":
+	{
+		"height": 102.0
+	},
+	"output.autopep8":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.hg":
+	{
+		"height": 102.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"restauranttab",
+				"app/components/RestaurantTabGallery.js"
+			],
+			[
+				"restaurantdeta",
+				"app/templates/RestaurantDetail.js"
+			],
+			[
+				"restaurantabme",
+				"app/components/RestaurantTabMenu.js"
+			],
+			[
+				"home",
+				"app/templates/Home.js"
+			],
+			[
+				"restaurantlist",
+				"app/components/RestaurantList.js"
+			],
+			[
+				"home.",
+				"app/templates/Home.js"
+			],
+			[
+				"restarumenu",
+				"app/components/RestaurantTabMenu.js"
+			],
+			[
+				"restaurent",
+				"app/templates/RestaurantDetail.js"
+			],
+			[
+				"rstauranttabmen",
+				"app/components/RestaurantTabMenu.js"
+			],
+			[
+				"restdetail",
+				"app/templates/RestaurantDetail.js"
+			],
+			[
+				"keluarga/view.jinja",
+				"keluarga/templates/keluarga/view.jinja"
+			],
+			[
+				"keluar/view.jinja",
+				"keluarga/templates/anggota/view.jinja"
+			],
+			[
+				"keluar/urls",
+				"keluarga/urls.py"
+			],
+			[
+				"orm/kelau",
+				"orm/keluarga.py"
+			],
+			[
+				"anggota/view.jinja",
+				"keluarga/templates/anggota/view.jinja"
+			],
+			[
+				"keluargaform",
+				"keluarga/forms.py"
+			],
+			[
+				"keluarga/forms",
+				"keluarga/forms.py"
+			],
+			[
+				"keluarga/form.j",
+				"keluarga/templates/keluarga/form.jinja"
+			],
+			[
+				"views2",
+				"keluarga/views2.py"
+			],
+			[
+				"keluarga/urls",
+				"keluarga/urls.py"
+			],
+			[
+				"base.",
+				"app/settings/base.py"
+			],
+			[
+				"keluarga/view",
+				"keluarga/views.py"
+			],
+			[
+				"keluarga/r",
+				"keluarga/urls.py"
+			],
+			[
+				"urls",
+				"app/urls.py"
+			],
+			[
+				"keluarga/view.jij",
+				"keluarga/templates/keluarga/view.jinja"
+			],
+			[
+				"anggota/view.ji",
+				"keluarga/templates/anggota/view.jinja"
+			],
+			[
+				"pdf.",
+				"keluarga/templates/keluarga/pdf.html"
+			],
+			[
+				"css.jinja",
+				"templates/layout/management/css.jinja"
+			],
+			[
+				"orm/keluar",
+				"orm/keluarga.py"
+			],
+			[
+				"list_angg",
+				"keluarga/templates/keluarga/list_anggota.jinja"
+			],
+			[
+				"list_kl",
+				"keluarga/templates/keluarga/list_keluarga.jinja"
+			],
+			[
+				"anggota/form",
+				"keluarga/templates/anggota/form.jinja"
+			],
+			[
+				"anggota/view.",
+				"keluarga/templates/anggota/view/table.jinja"
+			],
+			[
+				"anggota/tabe",
+				"keluarga/templates/anggota/view/table.jinja"
+			],
+			[
+				"desa/views",
+				"desa/views.py"
+			],
+			[
+				"keluarga/views.",
+				"keluarga/views.py"
+			],
+			[
+				"keluarga/view.inja",
+				"keluarga/templates/keluarga/view.jinja"
+			],
+			[
+				"keluarga/index.",
+				"keluarga/templates/keluarga/index.jinja"
+			],
+			[
+				"keluarga/table",
+				"keluarga/templates/anggota/view/table.jinja"
+			],
+			[
+				"desa/list",
+				"desa/templates/desa/list.jinja"
+			],
+			[
+				"keluarga/tab",
+				"keluarga/templates/keluarga/view/table.jinja"
+			],
+			[
+				"staffdesa/form",
+				"staffdesa/templates/staffdesa/form.jinja"
+			],
+			[
+				"staffdesa/index",
+				"staffdesa/templates/staffdesa/index.jinja"
+			],
+			[
+				"staffdesa/ur",
+				"staffdesa/urls.py"
+			],
+			[
+				"keluar/view",
+				"keluarga/views.py"
+			],
+			[
+				"aside",
+				"templates/layout/management/aside.jinja"
+			],
+			[
+				"list_kelau",
+				"keluarga/templates/keluarga/list_keluarga.jinja"
+			],
+			[
+				"keluarga/form.jinj",
+				"keluarga/templates/keluarga/form.jinja"
+			],
+			[
+				"orm/kelua",
+				"orm/keluarga.py"
+			],
+			[
+				"keluarga/",
+				"keluarga/views.py"
+			],
+			[
+				"desa/mod",
+				"desa/models.py"
+			],
+			[
+				"desa/vie",
+				"desa/views.py"
+			],
+			[
+				"desa/detai",
+				"desa/templates/desa/detail.jinja"
+			],
+			[
+				"orm/kela",
+				"orm/kelahiran.py"
+			],
+			[
+				"keluarga/vi",
+				"keluarga/views.py"
+			],
+			[
+				"login/vi",
+				"login/views.py"
+			],
+			[
+				"authch",
+				"library/authcheck.py"
+			],
+			[
+				"staffdes/vi",
+				"staffdesa/views.py"
+			],
+			[
+				"auth",
+				"library/authcheck.py"
+			],
+			[
+				"orm/staff",
+				"orm/staff.py"
+			],
+			[
+				"orm/qu",
+				"orm/queue.py"
+			],
+			[
+				"staffdesa/view/deta",
+				"staffdesa/templates/staffdesa/view/detail_modal.jinja"
+			],
+			[
+				"staffdesa/view/dele",
+				"staffdesa/templates/staffdesa/view/delete_modal.jinja"
+			],
+			[
+				"userview/view",
+				"userviewer/views.py"
+			],
+			[
+				"useradmin/form.ji",
+				"useradmin/templates/useradmin/form.jinja"
+			],
+			[
+				"useradmin/inj",
+				"useradmin/templates/useradmin/index.jinja"
+			],
+			[
+				"useradmin/url",
+				"useradmin/urls.py"
+			],
+			[
+				"staffdesa/tabl",
+				"staffdesa/templates/staffdesa/view/table.jinja"
+			],
+			[
+				"staffesa/in",
+				"staffdesa/templates/staffdesa/index.jinja"
+			],
+			[
+				"staffdesa/form.ji",
+				"staffdesa/templates/staffdesa/form.jinja"
+			],
+			[
+				"staffdesa/view.jinj",
+				"staffdesa/templates/staffdesa/view.jinja"
+			],
+			[
+				"staffdesajinja",
+				"staffdesa/templates/staffdesa/index.jinja"
+			],
+			[
+				"staffdesa/viw",
+				"staffdesa/views.py"
+			],
+			[
+				"desa/ur",
+				"desa/urls.py"
+			],
+			[
+				"staff/url",
+				"staffdesa/urls.py"
+			],
+			[
+				"aisde.ji",
+				"templates/layout/management/aside.jinja"
+			],
+			[
+				"keluarga/ur",
+				"keluarga/urls.py"
+			],
+			[
+				"login/view",
+				"login/views.py"
+			],
+			[
+				"login/vie",
+				"login/views.py"
+			],
+			[
+				"lib/auth",
+				"library/authcheck.py"
+			],
+			[
+				"aside.j",
+				"templates/layout/management/aside.jinja"
+			],
+			[
+				"staffdesa/form.",
+				"staffdesa/templates/staffdesa/form.jinja"
+			],
+			[
+				"staffdesa/ind",
+				"staffdesa/templates/staffdesa/index.jinja"
+			],
+			[
+				"useradmin/urls",
+				"useradmin/urls.py"
+			],
+			[
+				"staff/urls",
+				"staffdesa/urls.py"
+			],
+			[
+				"staffdesa/table",
+				"staffdesa/templates/staffdesa/view/table.jinja"
+			],
+			[
+				"staffdesa/view.ji",
+				"staffdesa/templates/staffdesa/view.jinja"
+			],
+			[
+				"staffdesa/view",
+				"staffdesa/views.py"
+			],
+			[
+				"ur",
+				"app/urls.py"
+			],
+			[
+				"dashboar/url",
+				"dashboard/urls.py"
+			],
+			[
+				"desa/view",
+				"desa/views.py"
+			],
+			[
+				"orm/mod",
+				"orm/models.py"
+			],
+			[
+				"app/base.",
+				"app/settings/base.py"
+			],
+			[
+				"staffdesa/",
+				"staffdesa/urls.py"
+			],
+			[
+				"desa/detail",
+				"desa/templates/desa/detail.jinja"
+			],
+			[
+				"app/base",
+				"app/settings/base.py"
+			],
+			[
+				"staffdesa/index.jinj",
+				"staffdesa/templates/staffdesa/index.jinja"
+			],
+			[
+				"staffdesa/url",
+				"staffdesa/urls.py"
+			],
+			[
+				"asid",
+				"templates/layout/management/aside.jinja"
+			],
+			[
+				"desa/forms",
+				"desa/forms.py"
+			],
+			[
+				"views.",
+				"desa/views.py"
+			],
+			[
+				"create.ji",
+				"desa/templates/desa/create.jinja"
+			],
+			[
+				"js.jin",
+				"templates/layout/management/js.jinja"
+			],
+			[
+				"head.ji",
+				"templates/layout/staff/head.jinja"
+			],
+			[
+				"detail",
+				"desa/templates/desa/detail.jinja"
+			],
+			[
+				"list.jinj",
+				"desa/templates/desa/list.jinja"
+			],
+			[
+				"aside.jinja",
+				"templates/layout/management/aside.jinja"
+			],
+			[
+				"index.js",
+				"app/index.js"
+			],
+			[
+				"native-base/container",
+				"node_modules/native-base/Components/Widgets/Container.js"
+			],
+			[
+				"navig",
+				"app/components/NavigationDrawer.js"
+			],
+			[
+				"naviga",
+				"app/components/NavigationDrawer.js"
+			],
+			[
+				"react-native-tab-view",
+				"node_modules/native-base/Components/vendor/react-native-scrollable-tab-view/index.js"
+			],
+			[
+				"native-base/header",
+				"node_modules/native-base/Components/Widgets/Header.js"
+			],
+			[
+				"restauritem",
+				"app/components/RestaurantItem.js"
+			],
+			[
+				"home.j",
+				"app/templates/Home.js"
+			],
+			[
+				"restit",
+				"app/components/RestaurantItem.js"
+			],
+			[
+				"restauit",
+				"app/components/RestaurantItem.js"
+			],
+			[
+				"home.js",
+				"app/templates/home.js"
+			],
+			[
+				"login.js",
+				"app/templates/login.js"
+			],
+			[
+				"login",
+				"app/templates/login.js"
+			],
+			[
+				"navigat",
+				"app/components/NavigationDrawer.js"
+			],
+			[
+				"images/ind",
+				"app/images/index.js"
+			],
+			[
+				"prod/url",
+				"apps/product/urls.py"
+			],
+			[
+				"prod/mod",
+				"apps/product/models.py"
+			],
+			[
+				"prod/views.py",
+				"apps/product/views.py"
+			],
+			[
+				"view",
+				"apps/product/views.py"
+			],
+			[
+				"prod/det",
+				"templates/product/detail.html"
+			],
+			[
+				"prod/view",
+				"apps/product/views.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
